@@ -1,0 +1,2 @@
+test,statistic,p_value,cumple_homocedasticidad,interpretacion
+Breusch-Pagan,104292.03097647938,0,NO,Se detecta heterocedasticidad - usar errores robustos

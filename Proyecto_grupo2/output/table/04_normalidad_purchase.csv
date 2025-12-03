@@ -1,0 +1,4 @@
+estadistico,valor,interpretacion,cumple_normalidad
+Skewness,0.6001367306264226,Asimetría moderada,Aceptable
+Kurtosis,2.6616049250706437,Normal,Aceptable
+Shapiro p-value,7.528325843882516e-37,Se rechaza normalidad,NO
