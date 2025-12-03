@@ -1,0 +1,5 @@
+test,statistic,p_value,significativo
+Wilcoxon (Gender),26080362421.5,0,Sí
+Kruskal-Wallis (Age),315.65242682849174,3.6122516553993095e-65,Sí
+Kruskal-Wallis (City),2303.7127322648357,0,Sí
+Kruskal-Wallis (product_C1),338648.39932122396,0,Sí

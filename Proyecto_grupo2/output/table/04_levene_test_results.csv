@@ -1,0 +1,5 @@
+variable,p_value,cumple_homocedasticidad
+Gender,0,NO
+Age,6.562221760639476e-13,NO
+City_Category,1.0441030773588669e-238,NO
+Product_Category_1,0,NO

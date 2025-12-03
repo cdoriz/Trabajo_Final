@@ -1,0 +1,4 @@
+comparacion,p_value,significativa
+Gender vs City_Category,5.097590042852445e-8,Sí
+Gender vs Age,4.275056906490575e-302,Sí
+Gender vs Product_Category_1,0,Sí

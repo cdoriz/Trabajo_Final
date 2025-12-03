@@ -1,0 +1,3 @@
+r.squared,adj.r.squared,sigma,AIC,BIC,p.value,modelo
+0.008177,0.008161,5002.526438,10931663.955484,10931787.351253,0,Base (sin Product_Category_1)
+0.639493,0.639474,3016.039505,10375015.762774,10375352.29669,0,Completo (con Product_Category_1)
