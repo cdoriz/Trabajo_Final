@@ -307,7 +307,7 @@ p5 <- ggplot(BlackFriday_boxplot, aes(x = Age, y = Purchase, fill = Gender)) +
            label = paste0("Brecha máxima:\n+", dif_por_edad$diferencia_pct, "%"),
            fontface = "bold",
            size = 3.2,
-           color = "black",  # NEGRO
+           color = "black",  
            lineheight = 0.9) +
   scale_fill_manual(
     values = c("F" = color_femenino, "M" = color_masculino),
@@ -389,5 +389,6 @@ ggsave(here("output", "figures", "05_cap4_productos_premium.png"),
 
 ggsave(here("output", "figures", "05_cap5_interaccion_edad_genero.png"), 
        p5, width = 13, height = 8, dpi = 320, bg = "white")
+
 
 
